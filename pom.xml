@@ -103,7 +103,7 @@
 </project>
 
 ==========================================
-AKIA5CLJO5G2OJXCPB33,BJpmgwjY+ogtvYYD2NNskdlDWNlQueFMgADKFmcM
+
 =====================================
 aws.paramstore.prefix=/config/cos
 aws.paramstore.name=dev
